@@ -1,29 +1,35 @@
-# todo
+# Vue 3 Todo App
 
-This template should help get you started developing with Vue 3 in Vite.
+## Goal of the Project
 
-## Recommended IDE Setup
+The goal of this project is to practice and learn the basic concepts of Vue 3, especially the Composition API.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Deployment
 
-## Customize configuration
+This project is not deployed yet. Once deployed, the URL will be added here (e.g., GitHub Pages or another platform).
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Description
 
-## Project Setup
+This is a simple Todo app built with Vue 3. It allows users to add and delete Todo items. The app uses Vue's Composition API to manage state and handle events like adding and removing tasks. The app is responsive and easy to use.
 
-```sh
-npm install
-```
+## Outcome
 
-### Compile and Hot-Reload for Development
+- An input field to add a new Todo.
+- Buttons to add and delete Todos.
+- A list displaying the Todos that have been added.
 
-```sh
-npm run dev
-```
+## Stack
 
-### Compile and Minify for Production
+- **Vue 3**: The frontend framework used to build the app.
+- **CSS**: For styling the app and creating a simple user interface.
 
-```sh
-npm run build
-```
+## Vision
+
+The vision for this project is to improve the UI and add more features such as:
+
+- A "Complete/Not Complete" icon for each Todo to track whether tasks are done or not.
+- Enhancements for a better user experience, like animations and a more polished design.
+
+## Stage of the Project
+
+This project is currently in progress. The core features (adding and deleting Todos) are functional, but there are plans to add more features and deploy the app.
