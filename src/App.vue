@@ -3,6 +3,17 @@ import { ref } from "vue"
 
 const todos = ref([])
 const newTodo = ref("")
+
+const addTodo = () => {
+  if (newTodo.value.trim() !== " ") {
+    //prevent empty todos
+    todos.value.push(newTodo.value)
+    newTodo.value = ""
+  }
+}
+const deleteTodo = (i) => {
+  todos.value = todos.value.filter((todo, index) => index != i)
+}
 </script>
 
 <template>
