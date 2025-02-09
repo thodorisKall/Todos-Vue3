@@ -21,7 +21,9 @@ This is a simple Todo app built with Vue 3. It allows users to add and delete To
 ## Stack
 
 - **Vue 3**: The frontend framework used to build the app.
-- **CSS**: For styling the app and creating a simple user interface.
+- **SASS**: For styling the app and creating a simple user interface.
+- **JavaScript**: The programming language used for app logic and interactivity.
+- **HTML5**: The markup language used for structuring the app.
 
 ## Vision
 
