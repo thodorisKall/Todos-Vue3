@@ -14,7 +14,8 @@ This is a simple Todo app built with Vue 3. It allows users to add and delete To
 
 ## Outcome
 
-- An input field to add a new Todo.
+- ![Στιγμιότυπο οθόνης (657)](https://github.com/user-attachments/assets/4208d519-4c62-4969-9c23-c75682bf3861)
+An input field to add a new Todo.
 - Buttons to add and delete Todos.
 - A list displaying the Todos that have been added.
 
